@@ -1,5 +1,5 @@
 package gotestmod
 
-func f() int {
-	return 1
+func F() string {
+	return "1.1.0"
 }
